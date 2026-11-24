@@ -1,0 +1,26 @@
+{
+  "name": "routepot-a2a-client",
+  "version": "0.1.0",
+  "description": "Reference A2A client for Routepot: discover the agent, practise a route, pay a play with the a2a-x402 extension and verify the draw.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "play": "tsx src/play.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@x402/core": "^2.25.0",
+    "@x402/evm": "^2.25.0",
+    "viem": "^2.55.11"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "vitest": "^4.1.11"
+  }
+}

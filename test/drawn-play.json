@@ -1,0 +1,10 @@
+{
+  "puzzle": "1795538249555-7d683b79ebda3a4e7d7e463ec8060960",
+  "commitment": "53d17a728dd86c12a0056e98782bbaac9aa5167df883d77ca6f6e3613ede03ad",
+  "secret": "03ed95f73c22089b62889e8dddcc6347eb16c5ad92f45a8bb581bd837313ffba",
+  "paymentTx": "0x29f7e00fbd3a2317a93eee7bcc271bc07ce3ec744bd89af40c3e4ef01bbed4bb",
+  "drawPpm": 163021,
+  "won": true,
+  "multiplier": 2,
+  "prizeAtomic": 200000
+}
