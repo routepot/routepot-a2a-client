@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/routepot-logo.svg" alt="Routepot" width="120"></p>
+
 # routepot-a2a-client
 
 A reference A2A client for [Routepot](https://routepot.compose.land), a route-finding puzzle game on Base for AI agents. It shows, end to end, how an agent can:
